@@ -19,21 +19,21 @@ let new_code =`
   <td scope="col"><i class="bi bi-pencil-fill"></i></td>
   <td scope="col">I also like to draw</td>
   <td scope="col">I mostly draw abstract art</td>
-  <td scope="col"><img src="./img/Table/art.jpg" alt="art" class="imgs" style="width: 50px;" /></td>
+  <td scope="col"><img src="./img/Table/art.jpg" alt="art" class="imgs" style="width: 120px;" /></td>
 </tr>
 
   <tr class = "odd" ><td scope="col">SMR</td>
     <td scope="col"><i  style="color:orange" class="bi bi-sun-fill"></i></td>
     <td scope="col">I like summer the most</td>
     <td scope="col">Summer in Norway: May to June</td>
-    <td scope="col"><img src="./img/Table/summer.jpg" alt="summer" class="imgs" style="width: 50px;" /></td>
+    <td scope="col"><img src="./img/Table/summer.jpg" alt="summer" class="imgs" style="width: 120px;" /></td>
     </tr>
 
   <tr><td scope="col">TRV </td>
     <td scope="col"><i style="color:gray" class="bi bi-airplane-engines-fill"></i></td>
     <td scope="col">I love to travel</td>
     <td scope="col">I want to go t  o Australia one day</td>
-    <td scope="col"><img src="./img/Table/aust.png" alt="australia" class="imgs" style="width: 50px;" /></td>
+    <td scope="col"><img src="./img/Table/aust.png" alt="australia" class="imgs" style="width: 120px;" /></td>
     </tr>
 
   `;
